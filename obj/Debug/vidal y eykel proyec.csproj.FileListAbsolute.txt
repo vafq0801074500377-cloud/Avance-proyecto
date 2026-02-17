@@ -1,0 +1,7 @@
+C:\Users\UCN\source\repos\vidal y eykel proyec\vidal y eykel proyec\bin\Debug\vidal y eykel proyec.exe.config
+C:\Users\UCN\source\repos\vidal y eykel proyec\vidal y eykel proyec\bin\Debug\vidal y eykel proyec.exe
+C:\Users\UCN\source\repos\vidal y eykel proyec\vidal y eykel proyec\bin\Debug\vidal y eykel proyec.pdb
+C:\Users\UCN\source\repos\vidal y eykel proyec\vidal y eykel proyec\obj\Debug\vidal y eykel proyec.csproj.AssemblyReference.cache
+C:\Users\UCN\source\repos\vidal y eykel proyec\vidal y eykel proyec\obj\Debug\vidal y eykel proyec.csproj.CoreCompileInputs.cache
+C:\Users\UCN\source\repos\vidal y eykel proyec\vidal y eykel proyec\obj\Debug\vidal y eykel proyec.exe
+C:\Users\UCN\source\repos\vidal y eykel proyec\vidal y eykel proyec\obj\Debug\vidal y eykel proyec.pdb
